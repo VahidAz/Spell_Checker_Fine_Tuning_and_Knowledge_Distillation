@@ -1,6 +1,6 @@
 # Spell-Checker Fine-Tuning and Knowledge Distillation
 
-This repository provides sample code for fine-tuning a spell checker based on Neuspell using a customized dataset. To develop a custom spell checker, we first need to generate noisy data from our dataset.
+This repository provides sample code for fine-tuning a spell checker based on [Neuspell](https://github.com/neuspell/neuspell) using a customized dataset. To develop a custom spell checker, we first need to generate noisy data from our dataset.
 
 Follow the steps below:
 
